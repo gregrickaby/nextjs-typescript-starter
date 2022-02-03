@@ -7,8 +7,9 @@ A Next.js starter with TypeScript, Tailwind CSS, and robust linting.
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - Linting! ESLint, Stylelint, Markdownlint, and Prettier
+- Github Action workflows for linting and security scanning
 
---
+---
 
 ## Getting Started
 
