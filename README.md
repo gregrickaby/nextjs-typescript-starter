@@ -1,6 +1,6 @@
 # Next.js TypeScript Starter
 
-A Next.js starter with TypeScript, Tailwind CSS, and robust linting.
+A Next.js starter with TypeScript, Tailwind CSS, JSDoc and robust linting.
 
 ## ✨ Features
 
