@@ -1,13 +1,20 @@
 import Head from 'next/head'
 import Image from 'next/image'
-import React from 'react'
+import {ReactNode} from 'react'
 import styles from './Layout.module.css'
 
 interface LayoutProps {
-  children: React.ReactNode
+  children: ReactNode
 }
 
-const Layout = ({children}: LayoutProps) => {
+/**
+ * Render the Layout component.
+ *
+ * @param  {object}  props          The component attributes as props.
+ * @param  {any}     props.children Child component(s) to render.
+ * @return {Element}                The Layout component.
+ */
+export default function Layout({children}: LayoutProps) {
   return (
     <div className={styles.container}>
       <Head>
@@ -34,5 +41,3 @@ const Layout = ({children}: LayoutProps) => {
     </div>
   )
 }
-
-export default Layout

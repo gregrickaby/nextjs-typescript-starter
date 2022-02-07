@@ -5,6 +5,12 @@ type Data = {
   name: string
 }
 
+/**
+ * Sample REST API route.
+ *
+ * @param {object} req The incoming request object.
+ * @param {object} res The outgoing response object.
+ */
 export default function handler(
   req: NextApiRequest,
   res: NextApiResponse<Data>
