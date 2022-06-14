@@ -7,13 +7,6 @@ interface LayoutProps {
   children: ReactNode
 }
 
-/**
- * Render the Layout component.
- *
- * @param  {object}  props          The component attributes as props.
- * @param  {any}     props.children Child component(s) to render.
- * @return {Element}                The Layout component.
- */
 export default function Layout({children}: LayoutProps) {
   return (
     <div className={styles.container}>

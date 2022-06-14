@@ -6,10 +6,9 @@ type Data = {
 }
 
 /**
- * Sample REST API route.
  *
- * @param {object} req The incoming request object.
- * @param {object} res The outgoing response object.
+ * @param  req
+ * @param  res
  */
 export default function handler(
   req: NextApiRequest,

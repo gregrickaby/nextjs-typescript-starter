@@ -1,7 +1,7 @@
 import type {NextPage} from 'next'
 import Layout from '~/components/Layout'
 
-const Homepage: NextPage = () => {
+const Home: NextPage = () => {
   return (
     <Layout>
       <p>Hello from the homepage!</p>
@@ -9,4 +9,4 @@ const Homepage: NextPage = () => {
   )
 }
 
-export default Homepage
+export default Home
