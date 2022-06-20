@@ -43,7 +43,7 @@
     "markdownlint": "^0.25.1",
     "markdownlint-cli": "^0.31.1",
     "postcss": "^8.4.14",
-    "prettier": "^2.7.0",
+    "prettier": "^2.7.1",
     "prettier-plugin-tailwindcss": "^0.1.11",
     "rimraf": "^3.0.2",
     "stylelint": "^14.9.1",
