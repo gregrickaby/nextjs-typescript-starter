@@ -40,7 +40,7 @@
     "eslint-config-next": "^12.1.6",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.0.0",
-    "markdownlint": "^0.25.1",
+    "markdownlint": "^0.26.0",
     "markdownlint-cli": "^0.31.1",
     "postcss": "^8.4.14",
     "prettier": "^2.7.1",
