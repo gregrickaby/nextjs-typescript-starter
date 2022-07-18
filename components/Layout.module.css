@@ -1,7 +1,0 @@
-.container {
-  @apply m-auto max-w-3xl space-y-8;
-}
-
-.siteTitle {
-  @apply text-2xl font-bold;
-}
