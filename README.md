@@ -1,13 +1,19 @@
 # Next.js TypeScript Starter
 
-A Next.js starter with TypeScript, Tailwind CSS, Apollo, and robust linting.
+Have you ever started a Next.js project from scratch and found yourself trying to get ESLint, Prettier, and Stylelint to play nice? What about setting up a `<Layout>` component, Tailwind CSS, and `types`?
+
+If so, this is the starter for you! It's just enough "boilerplate" to get you up and running, without being so opinionated that you have to teardown.
+
+Start coding your next big idea _right now_, with the Next.js TypeScript Starter!
 
 ## ✨ Features
 
-- [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- ESLint, Stylelint, Markdownlint, and Prettier
-- Github Action workflows for linting and security scanning
+- [ESLint](https://eslint.org/), [Stylelint](https://stylelint.io/), [Markdownlint](https://github.com/DavidAnson/markdownlint), and [Prettier](https://prettier.io/)
+- [JSDoc](https://www.typescriptlang.org/docs/handbook/jsdoc-supported-types.html)
+- Basic `<Layout>` component
+- [Experimental Image Support](https://nextjs.org/blog/next-12-2#improvements-to-nextimage)
+- Github Action workflow for linting PRs
 
 ---
 
