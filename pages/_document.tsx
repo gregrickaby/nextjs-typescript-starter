@@ -6,6 +6,11 @@ import Document, {
   NextScript
 } from 'next/document'
 
+/**
+ * Render a custom Document component.
+ *
+ * @return {Element} Custom Document component.
+ */
 export default class MyDocument extends Document {
   static async getInitialProps(ctx: DocumentContext) {
     const initialProps = await Document.getInitialProps(ctx)

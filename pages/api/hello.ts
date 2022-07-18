@@ -1,14 +1,9 @@
 // Next.js API route support: https://nextjs.org/docs/api-routes/introduction
 import type {NextApiRequest, NextApiResponse} from 'next'
-
-type Data = {
-  name: string
-}
+import {Data} from '~/lib/types'
 
 /**
- *
- * @param  req
- * @param  res
+ * Basic API Route example.
  */
 export default function handler(
   req: NextApiRequest,
