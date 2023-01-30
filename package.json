@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "classnames": "^2.3.2",
-    "next": "13.1.5",
+    "next": "13.1.6",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
@@ -34,9 +34,9 @@
     "@types/node": "^18.11.18",
     "@types/react": "^18.0.27",
     "autoprefixer": "^10.4.13",
-    "eslint": "^8.32.0",
-    "eslint-config-next": "^13.1.5",
-    "eslint-plugin-jsdoc": "^39.6.8",
+    "eslint": "^8.33.0",
+    "eslint-config-next": "^13.1.6",
+    "eslint-plugin-jsdoc": "^39.7.4",
     "eslint-config-prettier": "^8.6.0",
     "eslint-plugin-prettier": "^4.2.1",
     "markdownlint": "^0.27.0",
