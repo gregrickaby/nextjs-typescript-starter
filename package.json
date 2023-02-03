@@ -36,7 +36,7 @@
     "autoprefixer": "^10.4.13",
     "eslint": "^8.33.0",
     "eslint-config-next": "^13.1.6",
-    "eslint-plugin-jsdoc": "^39.7.4",
+    "eslint-plugin-jsdoc": "^39.8.0",
     "eslint-config-prettier": "^8.6.0",
     "eslint-plugin-prettier": "^4.2.1",
     "markdownlint": "^0.27.0",
@@ -48,6 +48,6 @@
     "stylelint": "^14.16.1",
     "stylelint-config-standard": "^29.0.0",
     "tailwindcss": "^3.2.4",
-    "typescript": "^4.9.4"
+    "typescript": "^4.9.5"
   }
 }
