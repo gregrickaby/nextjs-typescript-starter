@@ -25,7 +25,7 @@
     "type-check": "tsc"
   },
   "dependencies": {
-    "classnames": "^2.3.2",
+    "classnames": "^2.4.0",
     "next": "14.0.4",
     "react": "18.2.0",
     "react-dom": "18.2.0"
@@ -38,16 +38,16 @@
     "eslint-config-next": "^14.0.4",
     "eslint-plugin-jsdoc": "^46.9.1",
     "eslint-config-prettier": "^9.1.0",
-    "eslint-plugin-prettier": "^5.0.1",
+    "eslint-plugin-prettier": "^5.1.2",
     "markdownlint": "^0.32.1",
     "markdownlint-cli": "^0.38.0",
     "postcss": "^8.4.32",
     "prettier": "^3.1.1",
     "prettier-plugin-tailwindcss": "^0.5.9",
     "rimraf": "^5.0.5",
-    "stylelint": "^16.0.2",
-    "stylelint-config-standard": "^35.0.0",
-    "tailwindcss": "^3.3.6",
+    "stylelint": "^16.1.0",
+    "stylelint-config-standard": "^36.0.0",
+    "tailwindcss": "^3.4.0",
     "typescript": "^5.3.3"
   }
 }
