@@ -31,10 +31,10 @@
     "react-dom": "18.2.0"
   },
   "devDependencies": {
-    "@types/node": "^20.12.5",
-    "@types/react": "^18.2.74",
+    "@types/node": "^20.12.6",
+    "@types/react": "^18.2.75",
     "autoprefixer": "^10.4.19",
-    "eslint": "^9.0.0",
+    "eslint": "^8.57.0",
     "eslint-config-next": "^14.1.4",
     "eslint-plugin-jsdoc": "^48.2.3",
     "eslint-config-prettier": "^9.1.0",
