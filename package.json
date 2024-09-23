@@ -26,17 +26,17 @@
   },
   "dependencies": {
     "classnames": "^2.5.1",
-    "next": "14.2.12",
+    "next": "14.2.13",
     "react": "18.3.1",
     "react-dom": "18.3.1"
   },
   "devDependencies": {
     "@types/node": "^22.5.5",
-    "@types/react": "^18.3.7",
+    "@types/react": "^18.3.8",
     "autoprefixer": "^10.4.20",
     "eslint": "^8.57.0",
-    "eslint-config-next": "^14.2.12",
-    "eslint-plugin-jsdoc": "^50.2.3",
+    "eslint-config-next": "^14.2.13",
+    "eslint-plugin-jsdoc": "^50.2.4",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-prettier": "^5.2.1",
     "markdownlint": "^0.35.0",
