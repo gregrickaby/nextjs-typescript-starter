@@ -31,23 +31,23 @@
     "react-dom": "18.3.1"
   },
   "devDependencies": {
-    "@types/node": "^22.9.0",
+    "@types/node": "^22.10.1",
     "@types/react": "^18.3.12",
     "autoprefixer": "^10.4.20",
     "eslint": "^8.57.0",
     "eslint-config-next": "^15.0.3",
-    "eslint-plugin-jsdoc": "^50.5.0",
+    "eslint-plugin-jsdoc": "^50.6.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-prettier": "^5.2.1",
     "markdownlint": "^0.36.1",
-    "markdownlint-cli": "^0.42.0",
+    "markdownlint-cli": "^0.43.0",
     "postcss": "^8.4.49",
-    "prettier": "^3.3.3",
-    "prettier-plugin-tailwindcss": "^0.6.8",
+    "prettier": "^3.4.1",
+    "prettier-plugin-tailwindcss": "^0.6.9",
     "rimraf": "^6.0.1",
-    "stylelint": "^16.10.0",
+    "stylelint": "^16.11.0",
     "stylelint-config-standard": "^36.0.1",
     "tailwindcss": "^3.4.15",
-    "typescript": "^5.6.3"
+    "typescript": "^5.7.2"
   }
 }
